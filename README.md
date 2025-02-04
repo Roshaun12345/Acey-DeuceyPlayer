@@ -1,0 +1,1 @@
+This is a client-side implementation of the Acey-Deucey card game. The program communicates with a dealer server to play the game by sending and receiving commands via a socket connection. The main functionality of the program involves determining the optimal bet based on the cards dealt and the current game state, including pot value, stack value, and card history.
